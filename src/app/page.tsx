@@ -15,20 +15,20 @@ export default function Home() {
             className="invert dark:invert-0 mt-8 mb-2"
           />
           <Text as="p">
-            Welcome to the LiveKit livestream demo app. You can join or start
-            your own stream. Hosted on{" "}
-            <Link href="https://livekit.io/cloud" target="_blank">
-              LiveKit Cloud
+            Welcome to BLKLUV livestream. You can join or start
+            your own stream promoted on BLKLUV {" "}
+            <Link href="https://linktr.ee/blkluvorg" target="_blank">
+              Linktree
             </Link>
-            . Bored of the current color theme? Switch it up by pressing{" "}
-            <Kbd>⌘&thinsp;C</Kbd> !
+            . Sell your services, products or access to your BLKLUV Discord{" "}
+            <Kbd>⌘&thinsp;CLUB</Kbd> channel !
           </Text>
           <HomeActions />
           <Separator orientation="horizontal" size="4" className="my-2" />
           <Text as="p" size="2">
-            Feel free to clone this full-stack NextJS app{" "}
+            Join the new BLKLUV Reddit {" "}
             <Link
-              href="https://github.com/livekit-examples/nextjs-livestream"
+              href="https://hahz.blkluv.org"
               target="_blank"
             >
               here
