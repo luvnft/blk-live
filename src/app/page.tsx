@@ -15,13 +15,13 @@ export default function Home() {
             className="invert dark:invert-0 mt-8 mb-2"
           />
           <Text as="p">
-            Welcome to BLKLUV livestream. You can join or start
+            We Live Baby! Welcome to BLKLUV livestream. You can join or start
             your own stream promoted on BLKLUV {" "}
             <Link href="https://linktr.ee/blkluvorg" target="_blank">
               Linktree
             </Link>
             . Sell your services, products or access to your BLKLUV Discord{" "}
-            <Kbd>⌘&thinsp;CLUB</Kbd> channel !
+            <Kbd>⌘&thinsp;CLUB</Kbd> channel for Love Cash Money Live!
           </Text>
           <HomeActions />
           <Separator orientation="horizontal" size="4" className="my-2" />
