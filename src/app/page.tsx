@@ -26,7 +26,7 @@ export default function Home() {
           <HomeActions />
           <Separator orientation="horizontal" size="4" className="my-2" />
           <Text as="p" size="2">
-            Join the new BLKLUV Reddit {" "}
+            Join the new BLKLUV Hahz Bitcoin Reddit {" "}
             <Link
               href="https://hahz.blkluv.org"
               target="_blank"
