@@ -21,8 +21,8 @@ export default function RootLayout({
       <body className={inter.className}>
         <Theme
           appearance="dark"
-          accentColor="purple"
-          grayColor="mauve"
+          accentColor="green"
+          grayColor="gold"
           radius="none"
         >
           {children}
