@@ -14,21 +14,22 @@ export default function Home() {
             height="120"
             className="invert dark:invert-0 mt-8 mb-2"
           />
-          <Text as="p">
-            We Live Baby! Welcome to BLKLUV livestream. You can join or start
-            your own stream promoted on BLKLUV {" "}
-            <Link href="https://linktr.ee/blkluvorg" target="_blank">
-              Linktree
-            </Link>
-            . Sell your services, products or access to your BLKLUV Discord{" "}
-            <Kbd>⌘&thinsp;CLUB</Kbd> channel for Love Cash Money Live!
+           <Text as="p">
+            BDISC.golf Live offers an interactive disc golf livestream with chat,
+            perfect for learning, watching tournaments, and participating in events.
+            It’s ideal for tutorials, engaging with pros, and joining special challenges,
+            creating a vibrant community experience for disc golf enthusiasts. Follow us
+            on {" "}
+            <Link href="https://tiktok.com/bdiscgolf" target="_blank">
+              TikTok
+            </Link>for the latest live events.
           </Text>
           <HomeActions />
           <Separator orientation="horizontal" size="4" className="my-2" />
           <Text as="p" size="2">
-            Join the new BLKLUV Hahz Bitcoin Reddit {" "}
+            Sign up to become a BDISC Pro member to host live events {" "}
             <Link
-              href="https://hahz.blkluv.org"
+              href="https://bdisc.golf/register/"
               target="_blank"
             >
               here
