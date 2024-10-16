@@ -22,7 +22,7 @@ export default function RootLayout({
         <Theme
           appearance="dark"
           accentColor="green"
-          grayColor="gold"
+          grayColor="mauve"
           radius="none"
         >
           {children}
