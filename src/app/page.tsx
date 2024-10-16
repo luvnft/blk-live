@@ -22,7 +22,7 @@ export default function Home() {
             on {" "}
             <Link href="https://tiktok.com/bdiscgolf" target="_blank">
               TikTok
-            </Link>for the latest live events.
+            </Link> for the latest live events.
           </Text>
           <HomeActions />
           <Separator orientation="horizontal" size="4" className="my-2" />
